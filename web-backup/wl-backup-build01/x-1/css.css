@@ -1,0 +1,27 @@
+h1{
+text-align: center;
+}
+#pb{
+text-align: center;
+color: rgba(140, 0, 255, 0.678);
+}/*段落id=pb 类紫色 居中*/
+#ha{
+color: cyan;
+text-align: center;
+}/*标题id=ha 青色 居中*/
+#d1{
+	background-color:rgba(255, 255, 102, 0.5);
+}
+#d2{
+	background-color:rgba(70, 45, 207, 0.5);
+}
+#ha{
+	color: chartreuse;
+}
+#hb{
+	color: rgb(255, 94, 0);
+}
+#hc{
+	text-align: center;
+	color: rgb(0, 255, 191);
+}

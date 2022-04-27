@@ -1,0 +1,17 @@
+#b1{
+	background-color:rgba(255, 255, 102, 0.5);
+}
+*{
+text-align: center;
+}
+#pb{
+text-align: center;
+color: rgba(140, 0, 255, 0.678);
+}/*段落id=pb 类紫色 居中*/
+#ha{
+color: cyan;
+text-align: center;
+}/*标题id=ha 青色 居中*/
+#d1{
+	background-color:rgba(255, 255, 102, 0.5);
+}

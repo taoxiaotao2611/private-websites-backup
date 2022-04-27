@@ -1,0 +1,34 @@
+#pa{
+color:gold;
+text-align:center;
+}/*段落id=pa 金色 居中*/
+
+#pb{
+text-align: center;
+color: rgba(140, 0, 255, 0.678);
+}/*段落id=pb 类紫色 居中*/
+
+#pc{
+text-align: center;
+color: rgb(177, 238, 11);
+}/*段落id=pc 黄绿偏浅 居中*/
+
+
+#ba{
+background-color:rgba(255, 255, 102, 0.5) ;
+}/*背景 浅黄色*/
+
+#bb{
+background-color: rgb(255, 208, 1);
+}/*背景id=bb 极浅黄棕色*/
+
+
+#ha{
+color: cyan;
+text-align: center;
+}/*标题id=ha 青色 居中*/
+
+#hb{
+text-align: center;
+color: rgb(59, 144, 255);
+}/*标题id=hb 正蓝偏浅 居中*/
